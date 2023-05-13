@@ -1,0 +1,99 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+.main
+{
+  background-image: url('https://image.cnbcfm.com/api/v1/image/107084217-1656920960285-gettyimages-1176589866-20180323_8108969.jpeg?v=1678985287');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+.title1
+{
+  font-style:italic bold;
+  font-family:Tilt Prism;
+  text-align: center;
+  font-size: 100px;
+  padding-top: 80px;
+  color:rgb(16, 15, 15); 
+}
+.title2
+{
+  font-style:italic bold;
+  font-family:Nova Oval;
+  text-align: center;
+  font-size: 120px;
+  padding-top: 80px;
+  color:black; 
+}
+.loginboxmain
+{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.loginbox
+{
+  display:flex;
+  flex-direction: column;
+  height: 400px;
+  width:500px;
+  justify-content: center;
+  vertical-align:top;
+  border-radius:25px;
+  
+}
+.edit
+{
+  font-style:italic bold;
+  font-family:Nova Oval;
+  text-align: center;
+  font-size:50px;
+  padding-top:40px;
+  color:rgb(29, 26, 28); 
+}
+.input1
+{
+  height: 40px;
+  width:300px;
+  padding:10px 10px 10px 10px;
+  font-size: 18px;
+  border-color:rgb(14, 8, 8);
+  border-style: solid;
+  border-radius:10px;
+  cursor: pointer;
+  display: block;
+  margin-top: 50px;
+  margin-left: 90px;
+}
+.design
+{
+  display: flex;
+  justify-content:center;
+  padding-bottom: 40px;
+  padding-top: 10px;
+  
+}
+.input3
+{ 
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:16px;
+  cursor: pointer;
+  margin-top:20px;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  margin-left:20px;
+  background-color: rgb(206, 52, 52);
+  color: whitesmoke;
+  border-color: rgb(253, 252, 252);
+  border-style: solid;
+}
+a
+{
+text-decoration: none;
+}

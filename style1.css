@@ -1,0 +1,73 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.maindiv{
+  background-image: url('https://i2.wp.com/sheptravel.com/wp-content/uploads/2018/10/airplane.leakage.jpg?fit=1200%2C801&ssl=1');
+  background-size: cover;
+ 
+}
+.mynav
+{
+  border: 1px solid black;
+
+}
+
+.input1
+{
+  font-family: Lobster;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+  height:70px;
+  width:700px;
+  font-size: 40px;
+  border-color:rgb(14, 8, 8);
+  border-style: solid;
+  border-radius:80px;
+  cursor: pointer;
+  
+  margin-top: 50px;
+  
+}
+.headtext
+{
+  font-size: 100px;
+  color:red;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.maincontentflex
+{
+  display:block;
+  margin: 50px ;
+  
+}
+.content1
+{
+  display: inline-block;
+  border-style: solid;
+  padding: 20px;
+  margin-bottom:20px ;
+  
+  
+}
+.image-1
+{
+  display: inline-block;
+  height: 200px;
+  width:300px;
+}
+.text1
+{
+  font-family:serif;
+  font-style:italic bold;
+  font-size: 20px;
+
+}
+.content1 a{
+  text-decoration: none;
+  color: black;
+}

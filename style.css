@@ -1,0 +1,113 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+.main
+{
+  background-image: url('https://i2.wp.com/sheptravel.com/wp-content/uploads/2018/10/airplane.leakage.jpg?fit=1200%2C801&ssl=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+  
+  
+}
+.title1
+{
+  font-style:italic bold;
+  font-family:Tilt Prism;
+  text-align: center;
+  font-size: 100px;
+  padding-top: 80px;
+  color:black; 
+}
+.loginboxmain
+{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.loginbox
+{
+  display:flex;
+  flex-direction: column;
+  height: 400px;
+  width:500px;
+  justify-content: center;
+  vertical-align:top;
+  background-color:rgb(192, 187, 187);
+  border-radius:25px;
+  border-color: rgb(76, 74, 71);
+  border-style: solid;
+  
+  
+}
+.edit
+{
+  font-style:italic bold;
+  font-family:Nova Oval;
+  text-align: center;
+  font-size:40px;
+  padding-top:40px;
+  color:rgb(29, 26, 28); 
+}
+.input1
+{
+  height: 40px;
+  width:300px;
+  padding:10px 10px 10px 10px;
+  font-size: 18px;
+  border-color:rgb(14, 8, 8);
+  border-style: solid;
+  border-radius:10px;
+  cursor: pointer;
+  display: block;
+  margin-top: 50px;
+  margin-left: 90px;
+}
+.design
+{
+  display: flex;
+  justify-content:center;
+  padding-bottom: 40px;
+  padding-top: 10px;
+  
+}
+.input2
+{ 
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:16px;
+  cursor: pointer;
+  margin-top:20px;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  background-color: rgb(72, 206, 52);
+  color: whitesmoke;
+  
+  
+}
+.input3
+{ 
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  font-size:16px;
+  cursor: pointer;
+  margin-top:20px;
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  margin-left:20px;
+  background-color: rgb(72, 206, 52);
+  color: whitesmoke;
+
+  
+}
+a
+{
+text-decoration: none;
+}
